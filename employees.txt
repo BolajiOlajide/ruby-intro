@@ -1,0 +1,6 @@
+Susan, Sales
+Jerome, Quality Assurance
+Binta, Engineering
+Segun, Sales
+Itunu, Human Resources
+Ibukun, Manager
