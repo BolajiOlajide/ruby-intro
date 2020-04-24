@@ -4,3 +4,4 @@ Binta, Engineering
 Segun, Sales
 Itunu, Human Resources
 Ibukun, Manager
+Oscar, Accountant
